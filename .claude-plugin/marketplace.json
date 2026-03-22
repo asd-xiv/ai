@@ -12,8 +12,18 @@
       "name": "eslint-plugin",
       "description": "ESLint rules for overly fidgety namers",
       "source": {
-        "source": "github",
-        "repo": "asd-xiv/eslint-plugin"
+        "source": "git-subdir",
+        "url": "https://github.com/asd-xiv/eslint-plugin.git",
+        "path": ".ai"
+      }
+    },
+    {
+      "name": "m",
+      "description": "Point-free, immutable functional library for JavaScript and TypeScript",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/asd-xiv/m.git",
+        "path": ".ai"
       }
     }
   ]
