@@ -1,2 +1,3 @@
-# .ai
-Index of AI tooling integrations for @asd14 packages
+# ai
+
+> :robot: Index of AI tooling integrations for @asd14 packages

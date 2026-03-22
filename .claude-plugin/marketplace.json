@@ -1,0 +1,19 @@
+{
+  "name": "asd14",
+  "owner": {
+    "name": "Andrei Dumitrescu",
+    "email": "andrei@asd14.xyz"
+  },
+  "metadata": {
+    "description": "AI tooling integrations for @asd14 packages"
+  },
+  "plugins": [
+    {
+      "name": "eslint-plugin",
+      "source": {
+        "source": "github",
+        "repo": "asd-xiv/eslint-plugin"
+      }
+    }
+  ]
+}
