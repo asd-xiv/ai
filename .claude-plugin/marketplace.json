@@ -10,6 +10,7 @@
   "plugins": [
     {
       "name": "eslint-plugin",
+      "description": "ESLint rules for overly fidgety namers",
       "source": {
         "source": "github",
         "repo": "asd-xiv/eslint-plugin"
